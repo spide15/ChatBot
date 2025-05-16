@@ -1,14 +1,15 @@
 # ops_chatbot.py
 import streamlit as st
 import pandas as pd
-from langchain.document_loaders import PyPDFLoader
+
+from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.vectorstores import Chroma
 from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import Chroma
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 import openai
 import os
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 
 
 
