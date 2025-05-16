@@ -1,0 +1,9 @@
+product_name,qty,threshold,reorder_level,supplier
+Notebook,50,10,15,ABC Corp
+Printer Ink,20,5,10,InkZone
+Stapler,35,10,20,StaplePro
+Pen Drive,10,5,8,TechGears
+Marker,15,10,10,MarkRite
+Envelope,100,50,60,OfficeExpress
+A4 Paper,200,100,150,PaperHouse
+Calculator,8,5,10,CalcMart

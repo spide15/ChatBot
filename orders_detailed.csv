@@ -1,0 +1,9 @@
+order_id,status,date,customer_name,product,quantity
+101,Shipped,2025-05-01,Amit Shah,Notebook,2
+102,Processing,2025-05-02,Priya Iyer,Stapler,1
+103,Delivered,2025-05-03,Raj Verma,Pen Drive,3
+104,Cancelled,2025-05-04,Neha Das,Printer Ink,2
+105,Delivered,2025-05-05,Kunal Mehta,Notebook,5
+106,Shipped,2025-05-06,Divya Jain,Pen Drive,1
+107,Processing,2025-05-07,Ravi Kumar,Stapler,2
+108,Returned,2025-05-08,Sneha Roy,Printer Ink,1
